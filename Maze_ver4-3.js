@@ -120,7 +120,7 @@ class Game{
         //GOOLと表示
         ctx.font = "8pt Arial"; //フォントをきめる
         ctx.fillStyle = "red";  //塗りつぶす色を決める
-        ctx.fillText("GOOL", 6, 20);
+        ctx.fillText("GOAL", 6, 20);
 
         //クリアまでにかかった時間を表示
         let min = 0, sec = 0;
